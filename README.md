@@ -16,3 +16,8 @@ To demonstrate how Machine Learning can be used to perform "Peak Shaving"—redu
 2.  **Predict:** Uses a Random Forest model to forecast the next 24 hours of demand.
 3.  **Optimize:** Applies a logic layer to discharge batteries when demand > threshold.
 4.  **Visualize:** Displays the "Before vs. After" load curves in an interactive dashboard.
+
+
+## Before running the app, you must generate the AI model locally by running: python3 train_model.py
+
+![Dashboard Screenshot](images/image1.png)
