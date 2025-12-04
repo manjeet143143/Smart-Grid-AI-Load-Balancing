@@ -1,0 +1,15 @@
+# Mac System files
+.DS_Store
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environments (if you made one)
+venv/
+env/
+
+# Large Data (Optional - if your CSV is >100MB, un-comment next line)
+# data/*.pkl
+*.pkl
+*.h5
