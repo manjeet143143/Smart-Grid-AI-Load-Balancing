@@ -21,3 +21,14 @@ To demonstrate how Machine Learning can be used to perform "Peak Shaving"—redu
 
 
 ![Dashboard Screenshot](images/image1.png)
+
+
+### ⚙️ Installation
+1. Clone the repo:
+   `git clone https://github.com/manjeet143143/Smart-Grid-AI-Load-Balancing.git`
+2. Install requirements:
+   `pip install -r requirements.txt`
+3. **Generate the AI Model:**
+   `python3 train_model.py`
+4. Run the Dashboard:
+   `streamlit run app.py`
